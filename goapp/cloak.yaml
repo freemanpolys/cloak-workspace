@@ -1,0 +1,4 @@
+name: foo
+scripts:
+  - path: scripts/dependencies
+    sdk: go
